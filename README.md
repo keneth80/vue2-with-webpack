@@ -1,4 +1,4 @@
-# sc-service-template
+# web-pack-vue2-template
 
 ## Project setup
 ```
